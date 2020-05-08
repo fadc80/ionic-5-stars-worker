@@ -1,6 +1,6 @@
 # Ionic-5-Stars-Worker
 
-Ionic trainnig project for searching and assessing freelancers
+Ionic trainnig project for searching and assessing freelancers.
 
 ### Product Purpose
 
