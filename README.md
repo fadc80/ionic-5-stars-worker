@@ -4,7 +4,7 @@ Ionic trainnig project for searching and assessing freelancers.
 
 ### Product Purpose
 
-Help you finding well evaluated workers such as electricians, plumbers and housekeepers.
+Helping you find well evaluated workers such as electricians, plumbers and housekeepers.
 
 ### Major Features
 
