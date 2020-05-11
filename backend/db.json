@@ -2,7 +2,7 @@
     "workers": [
         {
             "name": "Robert",
-            "profession": "Carpenter",
+            "services": ["Carpenter"],
             "stars": 4,
             "contact": {
                 "email": "robert@fake.com",
@@ -28,7 +28,7 @@
         },
         {
             "name": "Donald",
-            "profession": "Plumber",
+            "services": ["Plumber"],
             "stars": 5,
             "contact": {
                 "email": "donald@fake.com",
@@ -54,7 +54,7 @@
         },
         {
             "name": "Cindy",
-            "profession": "cleaner",
+            "services": ["Cleaner"],
             "starts": 3,
             "contact": {
                 "email": "cindy@fake.com",
@@ -79,7 +79,7 @@
             ]
         }
     ],
-    "professions": [
+    "services": [
       "Carpenter",
       "Plumber",
       "Cleaner"
