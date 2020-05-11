@@ -1,0 +1,7 @@
+{
+  "name": "5star-worker",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
