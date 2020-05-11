@@ -14,6 +14,6 @@ Helping you find well evaluated workers such as electricians, plumbers and house
 
 ### Prototype
 
-* Low Fidelity prototype <https://www.figma.com/proto/kRyd423tzxHPtGqyaNt1iG/ionic-5-star-worker?node-id=1%3A2&scaling=scale-down>
+* Low Fidelity prototype <https://bit.ly/3fFmqCT>
 
 
