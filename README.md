@@ -4,7 +4,7 @@ Experimental Ionic app for searching and assessing freelancers.
 
 ### Product Purpose
 
-This WEB App helps you find well evaluated workers such as plumbers carpenters and cleaners.
+A Web App that helps you find well evaluated workers such as plumbers, carpenters and cleaners.
 
 ### Features
 
