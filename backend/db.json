@@ -1,0 +1,87 @@
+{
+    "workers": [
+        {
+            "name": "Robert",
+            "profession": "Carpenter",
+            "stars": 4,
+            "contact": {
+                "email": "robert@fake.com",
+                "phone": "+1-541-754-3010"
+            },
+            "reviews": [
+                {
+                    "name": "John",
+                    "stars": 4,
+                    "comment": "AAA AAA AAA"
+                },
+                {
+                    "name": "Jennifer",
+                    "stars": 3,
+                    "comment": "BBB BBB BBB"
+                },
+                {
+                    "name": "Bill",
+                    "stars": 5,
+                    "comment": "BBB BBB BBB"
+                }
+            ]
+        },
+        {
+            "name": "Donald",
+            "profession": "Plumber",
+            "stars": 5,
+            "contact": {
+                "email": "donald@fake.com",
+                "phone": "+1-183-458-3388"
+            },
+            "reviews": [
+                {
+                    "name": "John",
+                    "stars": 5,
+                    "comment": "AAA AAA AAA"
+                },
+                {
+                    "name": "Jennifer",
+                    "starts": 5,
+                    "comment": "BBB BBB BBB"
+                },
+                {
+                    "name": "Bill",
+                    "stats": 5,
+                    "comment": "CCC CCC CCC"
+                }
+            ]
+        },
+        {
+            "name": "Cindy",
+            "profession": "cleaner",
+            "starts": 3,
+            "contact": {
+                "email": "cindy@fake.com",
+                "phone": "+1-823-155-4012"
+            },
+            "reviews": [
+                {
+                    "name": "John",
+                    "stars": 3,
+                    "comment": "AAA AAA AAA"
+                },
+                {
+                    "name": "Jennifer",
+                    "starts": 4,
+                    "comment": "BBB BBB BBB"
+                },
+                {
+                    "name": "Bill",
+                    "starts": 2,
+                    "comment": "CCC CCC CCC"
+                }
+            ]
+        }
+    ],
+    "professions": [
+      "Carpenter",
+      "Plumber",
+      "Cleaner"
+    ]
+}
