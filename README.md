@@ -6,10 +6,10 @@ Experimental Ionic app for searching and assessing freelancers.
 
 A Web App that helps you find well evaluated workers such as plumbers, carpenters and cleaners.
 
-### Features
+### Major Features
 
-* Search by criteria
-* Customer comments
+* Search by category
+* Customer reviews
 * Five-star rank
 
 ### Prototype
