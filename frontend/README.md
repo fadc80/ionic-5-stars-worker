@@ -17,6 +17,10 @@ npm install
 ionic serve
 ```
 
+Open it on your browser:
+
+http://localhost:4200
+
 [1]:https://nodejs.org/en/
 [2]:https://ionicframework.com/
 [3]:https://cordova.apache.org/
