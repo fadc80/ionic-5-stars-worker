@@ -1,6 +1,6 @@
 # Backend
 
-A simple [json-server][1] that mocks base services
+A simple [json-server][1] that mocks base services.
 
 ### Requirements
 
