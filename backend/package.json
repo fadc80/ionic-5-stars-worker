@@ -6,7 +6,7 @@
   "license": "ISC",
   "main": "server.js",
   "scripts": {
-    "start": "json-server --watch ./db.json"
+    "start": "json-server --watch ./src/db.json --routes ./src/routes.json"
   },
   "dependencies": {
     "jsonwebtoken": "^8.5.1",

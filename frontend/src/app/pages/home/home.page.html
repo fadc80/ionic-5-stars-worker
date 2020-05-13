@@ -1,0 +1,49 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      5 Stars Worker
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">5 Stars Worker</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <ion-row *ngIf="!allWorkers || allWorkers.length == 0"
+    class="ion-justify-content-center ion-padding">
+    <ion-label>
+      Nenhum usuário cadastrado
+    </ion-label>
+  </ion-row>
+
+  <ion-item>
+    <ion-label position="stacked"><h1>Profession</h1></ion-label>
+    <ion-select *ngIf="allProfessions && allProfessions.length > 0" comp
+      okText="Ok" cancelText="Cancelar" (ionChange)="filterWorkers($event)">
+      <ion-select-option *ngFor="let profession of allProfessions"
+        [value]="selectedProfession">{{profession}}</ion-select-option>
+    </ion-select>
+  </ion-item>
+
+  <ion-list *ngIf="filteredWorkers">
+
+    <ion-grid>
+      <ion-row>
+        <ion-col *ngFor="let worker of filteredWorkers" size="12">
+            <ion-item button detail="false" button detail="false">
+              <ion-label>
+                <h2>{{worker.name}}</h2>
+                <h2>{{worker.stars}} stars</h2>
+              </ion-label>
+            </ion-item>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+
+  </ion-list>
+
+</ion-content>
