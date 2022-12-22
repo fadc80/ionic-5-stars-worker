@@ -9,7 +9,7 @@
     "start": "json-server --watch ./src/db.json --routes ./src/routes.json"
   },
   "dependencies": {
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "json-server": "^0.15.0"
   },
   "repository": {
